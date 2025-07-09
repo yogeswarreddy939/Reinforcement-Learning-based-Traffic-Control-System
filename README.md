@@ -24,9 +24,3 @@ This project uses reinforcement learning to optimize traffic signal timing based
 - `simulate.py` – Main script to train and test
 - `sample_traffic_data/` – Folder with sample traffic images
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/yourusername/traffic-control-rl.git
-cd traffic-control-rl
-pip install -r requirements.txt
