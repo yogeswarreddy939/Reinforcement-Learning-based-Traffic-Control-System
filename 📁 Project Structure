@@ -1,0 +1,9 @@
+traffic-control-rl/
+├── README.md
+├── traffic_env.py
+├── q_learning_agent.py
+├── simulate.py
+├── sample_traffic_data/
+│   └── traffic_frames (mock images folder)
+├── requirements.txt
+└── .gitignore
